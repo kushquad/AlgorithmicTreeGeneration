@@ -15,7 +15,7 @@ Over time, we intend to add more presets before finally settling on a general L-
 ---
 
 ## LGen script
-![lgen window](https://github.com/kushquad/AlgorithmicTreeGeneration/master/images/panel.png "LGen Plugin")
+![lgen window](https://github.com/kushquad/AlgorithmicTreeGeneration/blob/master/images/panel.png "LGen Plugin")
 ### Parameters
 1. Initial angle - the angle from the XZ plane used for the first stroke
 2. Turn angle - angle from XZ plane used for successive strokes - this angles accumulate along the system
@@ -27,10 +27,10 @@ Over time, we intend to add more presets before finally settling on a general L-
 7. Convert to 3D - whether to convert curves to surfaces using extrude tool
 8. Convert to Polygons - whether to convert curves to polygonal surfaces. If set to false, converted to NURBS surfaces.
 
-![viewport selection](https://github.com/kushquad/AlgorithmicTreeGeneration/master/images/selection.png "Viewport selection")
+![viewport selection](https://github.com/kushquad/AlgorithmicTreeGeneration/blob/master/images/selection.png "Viewport selection")
 
 ## Render proof-of-concept
-![Render POC](https://github.com/kushquad/AlgorithmicTreeGeneration/master/images/render.png "Render POC")
+![Render POC](https://github.com/kushquad/AlgorithmicTreeGeneration/blob/master/images/render.png "Render POC")
 
 ## Next update
 1. LGrowth script for fractal tree generation
